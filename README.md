@@ -35,7 +35,7 @@
 
 В данном ролике можно увидеть демонстрацию работы системы.
 
-<video src="demo/demo.mp4" width="500" controls></video>
+https://github.com/user-attachments/assets/99bc66c3-16c1-4131-b226-07b03fb9f105
 
 ## Установка через `uv`
 * Требования:
